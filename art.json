@@ -1,0 +1,114 @@
+{
+  "heroImages": [
+    {
+      "id": 1,
+      "image": "./assets/img/13.jpg",
+      "title": "Portrait women",
+      "year": "2025"
+    },
+    {
+      "id": 2,
+      "image": "./assets/img/12.jpg",
+      "title": "cute baby",
+      "year": "2022"
+    }
+  ],
+  "artworks": [
+    {
+      "id": 3,
+      "image": "./assets/img/11.jpg",
+      "title": "Artwork 11",
+      "year": "2024"
+    },
+    {
+      "id": 4,
+      "image": "./assets/img/10.jpg",
+      "title": "Artwork 10",
+      "year": "2024"
+    },
+    {
+      "id": 5,
+      "image": "./assets/img/9.jpg",
+      "title": "Artwork 9",
+      "year": "2024"
+    },
+    {
+      "id": 6,
+      "image": "./assets/img/8.jpg",
+      "title": "Artwork 8",
+      "year": "2024"
+    },
+    {
+      "id": 7,
+      "image": "./assets/img/7.jpg",
+      "title": "Artwork 7",
+      "year": "2024"
+    },
+    {
+      "id": 8,
+      "image": "./assets/img/6.jpg",
+      "title": "Artwork 6",
+      "year": "2024"
+    },
+    {
+      "id": 9,
+      "image": "./assets/img/5.jpg",
+      "title": "Artwork 5",
+      "year": "2024"
+    },
+    {
+      "id": 10,
+      "image": "./assets/img/4.jpg",
+      "title": "Artwork 4",
+      "year": "2024"
+    },
+    {
+      "id": 11,
+      "image": "./assets/img/3.jpg",
+      "title": "Artwork 3",
+      "year": "2024"
+    },
+    {
+      "id": 12,
+      "image": "./assets/img/2.jpg",
+      "title": "Artwork 2",
+      "year": "2024"
+    },
+    {
+      "id": 13,
+      "image": "./assets/img/1.jpg",
+      "title": "Artwork 1",
+      "year": "2024"
+    },
+    {
+      "id": 14,
+      "image": "./assets/img/18.jpg",
+      "title": "Artwork 18",
+      "year": "2024"
+    },
+    {
+      "id": 15,
+      "image": "./assets/img/17.jpg",
+      "title": "Artwork 17",
+      "year": "2024"
+    },
+    {
+      "id": 16,
+      "image": "./assets/img/16.jpg",
+      "title": "Artwork 16",
+      "year": "2024"
+    },
+    {
+      "id": 17,
+      "image": "./assets/img/15.jpg",
+      "title": "Artwork 15",
+      "year": "2024"
+    },
+    {
+      "id": 18,
+      "image": "./assets/img/14.jpg",
+      "title": "Artwork 14",
+      "year": "2024"
+    }
+  ]
+}

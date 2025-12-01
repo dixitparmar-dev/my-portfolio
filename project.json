@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Quietune",
+      "description": "A calm and minimal music player for your desktop.",
+      "technologies": ["HTML/CSS", "JavaScript", "electron.js"],
+      "link": "https://github.com/dixitparmar-dev/Quietune"
+    },
+    {
+      "id": 2,
+      "title": "eshop",
+      "description": "simple minimal look e-commerce website ui",
+      "technologies": ["HTML/CSS", "JavaScript"],
+      "link": "https://github.com/dixitparmar-dev/eshop"
+    },
+    {
+      "id": 3,
+      "title": "task-list",
+      "description": "minimal ui local todo-list website",
+      "technologies": ["react.js"],
+      "link": "https://github.com/dixitparmar-dev/task-list?tab=readme-ov-file"
+    }
+  ]
+}
