@@ -8,23 +8,24 @@
   <title>Dixit Parmar | Portfolio</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
-    tailwind.config = {
-      theme: {
-        extend: {
-          fontFamily: {
-            sans: ['-apple-system', 'BlinkMacSystemFont', 'SF Pro Display', 'Segoe UI', 'Roboto', 'sans-serif'],
-          },
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: {
+          sans: ['Montserrat', '-apple-system', 'BlinkMacSystemFont', 'SF Pro Display', 'Segoe UI', 'Roboto', 'sans-serif'],
         },
       },
-    }
-  </script>
+    },
+  }
+</script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css?v=9">
 </head>
 
-<body class="bg-black text-white font-[Montserrat] antialiased">
+<body class="bg-black text-white font-sans antialiased">
   <section class="relative min-h-screen flex items-center justify-center overflow-hidden">
     <div class="absolute inset-0 bg-black"></div>
     <div class="relative z-10 text-center px-4 sm:px-6 max-w-[980px] py-20">
@@ -189,5 +190,6 @@
   </div>
   <script src="script.js"></script>
 </body>
+
 
 </html>
